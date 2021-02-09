@@ -7,7 +7,7 @@
 
 Приведены соответствия номеров с типами токенов:
 ЦВЕТ     НОМЕР   СООТВЕТСТВИЕ
-CLASSIC = 0, // unknown tokens
+CLASSIC = 0, // unknown tokens \n
 YELLOW = 1, // keywords
 ORANGE = 2, // identifiers
 RED = 3, // real constants
